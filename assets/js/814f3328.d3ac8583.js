@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconnie_doc=self.webpackChunkconnie_doc||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/doc/blog/welcome","unlisted":false}]}')}}]);

@@ -4,7 +4,7 @@
         <title>My Site Blog</title>
         <link>https://your-docusaurus-site.example.com/doc/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,70 +12,19 @@
             <title><![CDATA[Welcome]]></title>
             <link>https://your-docusaurus-site.example.com/doc/blog/welcome</link>
             <guid>https://your-docusaurus-site.example.com/doc/blog/welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
-            <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
-<ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
-</ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://your-docusaurus-site.example.com/doc/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
-            <category>Facebook</category>
-            <category>Hello</category>
-            <category>Docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://your-docusaurus-site.example.com/doc/blog/mdx-blog-post</link>
-            <guid>https://your-docusaurus-site.example.com/doc/blog/mdx-blog-post</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
-            <content:encoded><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>Use the power of React to create interactive blog posts.</p><div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><button>Click me!</button></div></div>]]></content:encoded>
-            <category>Docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[Long Blog Post]]></title>
-            <link>https://your-docusaurus-site.example.com/doc/blog/long-blog-post</link>
-            <guid>https://your-docusaurus-site.example.com/doc/blog/long-blog-post</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the summary of a very long blog post,]]></description>
-            <content:encoded><![CDATA[<p>This is the summary of a very long blog post,</p>
-<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>Hello</category>
-            <category>Docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://your-docusaurus-site.example.com/doc/blog/first-blog-post</link>
-            <guid>https://your-docusaurus-site.example.com/doc/blog/first-blog-post</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>Hola</category>
-            <category>Docusaurus</category>
+            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[I'm Huy, the developer of ConniePad. I know everyone has the same question: with so many note apps out there, why did I make this one? The answer is I struggle to find any app that is lightweight, has a comprehensive formatting editor, works offline, ensures privacy for enterprise usage, has lifetime price model, and is compatible with the collaboration tools I use every day, such as Jira, Confluence, and Trello.]]></description>
+            <content:encoded><![CDATA[<p>I'm Huy, the developer of ConniePad. I know everyone has the same question: with so many note apps out there, why did I make this one? The answer is <strong>I struggle to find any app that is lightweight, has a comprehensive formatting editor, works offline, ensures privacy for enterprise usage, has lifetime price model, and is compatible with the collaboration tools I use every day, such as Jira, Confluence, and Trello.</strong></p>
+<p><strong>Firstly, my ideal note app must have an easy-to-use editor and formatting system</strong>. I can't remember <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noopener noreferrer">Markdown</a> syntax, don't use <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">Git</a> to backup my notes, and don't know how to customise style with <a href="https://web.dev/learn/css" target="_blank" rel="noopener noreferrer">CSS</a>. If you don't know what those are, no worries—they're for developers. What you should care about is there are buttons to toggle bold, italic, underline, buttons to insert, resize, change tables, layouts, and expandable sections, and be able to drag and drop images, videos, and links into notes.</p>
+<p>( To all my dev friends, don't worry, I'll hide advanced features in the config. We're good at finding hidden things like that ;) )</p>
+<p><strong>As an Apple fan, I believe the app should work offline, be smooth, and be native on macOS</strong>. Any delay could prevent me from capturing important information that quickly passes through my brain. I believe that multi-platform apps mean no platform is perfect. It consumes more memory, battery and lack deep integration with the OS. Since I'm not a Window, Linux, or Android user, I focus my efforts on making the app work best and integrate well with the features that the Apple ecosystem offers.</p>
+<p>We not only take notes for personal life but also for work, business, and sensitive data. It's risky and often against company policies to store work data with 3rd-party vendors, where it can be accessed by others, to sell for ads or used for AI training. That's why I designed an app that saves notes in files and folders system on your disk - <strong>privacy-first</strong>. This familiar system lets you choose how you want to back up and sync your data, or you can let Apple iCloud handle it if you prefer.</p>
+<p><strong>This note formatting is compatible with <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">Jira</a>, <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noopener noreferrer">Confluence</a>, <a href="https://trello.com/" target="_blank" rel="noopener noreferrer">Trello</a>, and <a href="https://bitbucket.org/product" target="_blank" rel="noopener noreferrer">Bitbucket</a></strong>—the leading work management and collaboration tools used by world-class companies like Apple, Tesla, Reddit, Canva, Mercedes-Benz, and NASA.</p>
+<p>In my opinion, <strong>an ideal personal note app should offer a lifetime license instead of a subscription</strong>. Take Evernote as an example: users' data is held hostage, and they have to pay continuously increasing prices until they can't afford it and must find an alternative solution. Subscription models are great for low-entry trials, but when you commit to storing your personal knowledge for years, it's like entering into a rental agreement with a landlord—you could be evicted anytime. They might offer a free plan, but maintaining a free plan is a cost for them and could be cut at any time.</p>
+<p><strong>They can’t afford to offer a lifetime license, but my app can due to the technology I use, which gives me an advantage to offer my users a lifetime deal—unlimited usage without breaking the bank</strong>. Currently, I offer the app for $19.99 on the Mac App Store, which you can purchase once and use forever, for many years. If you do some research, you’ll find this is significantly cheaper than other competitors, which cost you $50-$150 yearly. This is a limited offer as a thank you to everyone who supports me in this early stage. I will eventually have a trial version if you want to try it before committing to buy, but the lifetime price won’t be $19.99 anymore.</p>
+<p>If your company has <strong>Apple Business Management</strong> or your university has <strong>Apple School Management</strong>, you can <strong>get the app for free</strong>. Please contact your admin.</p>
+<p>Remember that <strong>this app may be tax deductible</strong> in some countries, as you could claim it as a tool to generate your income. Seek advice from your accountant.</p>
+<p>Thanks for reading this, and I really appreciate your time. The app still has many areas to improve, and I will push it forward every day. If you have any questions, feedback, or would like to connect, feel free to drop an email to <strong><a href="mailto:huy@conniepad.com" target="_blank" rel="noopener noreferrer">huy@conniepad.com</a></strong>.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
