@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>My Site Blog</title>
-        <link>https://your-docusaurus-site.example.com/doc/blog</link>
+        <link>https://your-docusaurus-site.example.com/blog</link>
         <description>My Site Blog</description>
         <lastBuildDate>Thu, 08 Aug 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://your-docusaurus-site.example.com/doc/blog/welcome</link>
-            <guid>https://your-docusaurus-site.example.com/doc/blog/welcome</guid>
+            <link>https://your-docusaurus-site.example.com/blog/welcome</link>
+            <guid>https://your-docusaurus-site.example.com/blog/welcome</guid>
             <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[I'm Huy, the developer of ConniePad. I know everyone has the same question: with so many note apps out there, why did I make this one? The answer is I struggle to find any app that is lightweight, has a comprehensive formatting editor, works offline, ensures privacy for enterprise usage, has lifetime price model, and is compatible with the collaboration tools I use every day, such as Jira, Confluence, and Trello.]]></description>
             <content:encoded><![CDATA[<p>I'm Huy, the developer of ConniePad. I know everyone has the same question: with so many note apps out there, why did I make this one? The answer is <strong>I struggle to find any app that is lightweight, has a comprehensive formatting editor, works offline, ensures privacy for enterprise usage, has lifetime price model, and is compatible with the collaboration tools I use every day, such as Jira, Confluence, and Trello.</strong></p>
