@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://doc.conniepad.com/blog</id>
-    <title>ConniePad documentation Blog</title>
+    <title>ConniePad Blog</title>
     <updated>2024-08-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://doc.conniepad.com/blog"/>
-    <subtitle>ConniePad documentation Blog</subtitle>
+    <subtitle>ConniePad Blog</subtitle>
     <icon>https://doc.conniepad.com/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
+        <title type="html"><![CDATA[Why do I made note app]]></title>
         <id>https://doc.conniepad.com/blog/welcome</id>
         <link href="https://doc.conniepad.com/blog/welcome"/>
         <updated>2024-08-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm Huy, the developer of ConniePad. I know everyone has the same question: with so many note apps out there, why did I make this one? The answer is I struggle to find any app that is lightweight, has a comprehensive formatting editor, works offline, ensures privacy for enterprise usage, has lifetime price model, and is compatible with the collaboration tools I use every day, such as Jira, Confluence, and Trello.]]></summary>
-        <content type="html"><![CDATA[<p>I'm Huy, the developer of ConniePad. I know everyone has the same question: with so many note apps out there, why did I make this one? The answer is <strong>I struggle to find any app that is lightweight, has a comprehensive formatting editor, works offline, ensures privacy for enterprise usage, has lifetime price model, and is compatible with the collaboration tools I use every day, such as Jira, Confluence, and Trello.</strong></p>
+        <summary type="html"><![CDATA[I'm Huy, the developer & founder of ConniePad. I know everyone has the same question: with so many note apps out there, why did I make this one? The answer is I struggle to find any app that is lightweight, has a comprehensive formatting editor, works offline, ensures privacy for enterprise usage, has lifetime price model, and is compatible with the collaboration tools I use every day, such as Jira, Confluence, and Trello.]]></summary>
+        <content type="html"><![CDATA[<p>I'm Huy, the developer &amp; founder of ConniePad. I know everyone has the same question: with so many note apps out there, why did I make this one? The answer is <strong>I struggle to find any app that is lightweight, has a comprehensive formatting editor, works offline, ensures privacy for enterprise usage, has lifetime price model, and is compatible with the collaboration tools I use every day, such as Jira, Confluence, and Trello.</strong></p>
 <p><strong>Firstly, my ideal note app must have an easy-to-use editor and formatting system</strong>. I can't remember <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noopener noreferrer">Markdown</a> syntax, don't use <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">Git</a> to backup my notes, and don't know how to customise style with <a href="https://web.dev/learn/css" target="_blank" rel="noopener noreferrer">CSS</a>. If you don't know what those are, no worries—they're for developers. What you should care about is there are buttons to toggle bold, italic, underline, buttons to insert, resize, change tables, layouts, and expandable sections, and be able to drag and drop images, videos, and links into notes.</p>
 <p>( To all my dev friends, don't worry, I'll hide advanced features in the config. We're good at finding hidden things like that ;) )</p>
 <p><strong>As an Apple fan, I believe the app should work offline, be smooth, and be native on macOS</strong>. Any delay could prevent me from capturing important information that quickly passes through my brain. I believe that multi-platform apps mean no platform is perfect. It consumes more memory, battery and lack deep integration with the OS. Since I'm not a Window, Linux, or Android user, I focus my efforts on making the app work best and integrate well with the features that the Apple ecosystem offers.</p>
