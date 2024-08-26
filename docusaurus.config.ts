@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "ConniePad",
-  tagline: "",
+  tagline: "Documentation, Blog & Updates",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -62,6 +62,7 @@ const config: Config = {
       logo: {
         alt: "My Site Logo",
         src: "img/logo.png",
+        href: "https://conniepad.com",
       },
       items: [
         {
