@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkconnie_doc=self.webpackChunkconnie_doc||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Why do I made note app","permalink":"/blog/welcome","unlisted":false}]}')}}]);

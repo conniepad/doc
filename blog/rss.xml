@@ -4,10 +4,68 @@
         <title>ConniePad Blog</title>
         <link>https://doc.conniepad.com/blog</link>
         <description>ConniePad Blog</description>
-        <lastBuildDate>Thu, 08 Aug 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[New feature: Automatic note history for extra peace of mind!]]></title>
+            <link>https://doc.conniepad.com/blog/auto-backup</link>
+            <guid>https://doc.conniepad.com/blog/auto-backup</guid>
+            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[I’m excited to introduce a feature that adds an extra layer of protection to your notes — automatic save history! Now, your notes will be captured a snapshot every 5 minutes, so if you accidentally make changes or need to go back to a previous version, you’re covered.]]></description>
+            <content:encoded><![CDATA[<p>I’m excited to introduce a feature that adds an extra layer of protection to your notes — automatic save history! Now, your notes will be captured a snapshot every 5 minutes, so if you accidentally make changes or need to go back to a previous version, you’re covered.</p>
+<p>This feature gives you the peace of mind that your notes are always safe. And as a bonus, it acts as a backup in case iCloud ever fails, ensuring you never lose important information.</p>
+<p>Your notes are in good hands—safe, secure, and always recoverable!</p>]]></content:encoded>
+            <category>feature</category>
+        </item>
+        <item>
+            <title><![CDATA[New feature: Convert your notes to markdown!]]></title>
+            <link>https://doc.conniepad.com/blog/copy-as-markdown</link>
+            <guid>https://doc.conniepad.com/blog/copy-as-markdown</guid>
+            <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[I’m happy to introduce a handy new feature—now you can easily convert your notes to Markdown format! This makes it super convenient if you want to share your notes with other apps, or use them in automations and shortcuts.]]></description>
+            <content:encoded><![CDATA[<p>I’m happy to introduce a handy new feature—now you can easily convert your notes to Markdown format! This makes it super convenient if you want to share your notes with other apps, or use them in automations and shortcuts.</p>
+<p>With just a few clicks, your notes are transformed into a clean Markdown file, ready for you to send, edit, or integrate wherever you need. Whether you’re working with other note-taking apps or setting up a workflow, this feature helps you move your content smoothly across platforms.</p>
+<p>Give it a try and see how Markdown export makes your notes even more versatile!</p>]]></content:encoded>
+            <category>feature</category>
+        </item>
+        <item>
+            <title><![CDATA[New feature: Easily embed and resize images!]]></title>
+            <link>https://doc.conniepad.com/blog/embed-image</link>
+            <guid>https://doc.conniepad.com/blog/embed-image</guid>
+            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[I’m thrilled to announce that adding images to your notes just got a whole lot easier! You can now effortlessly embed multiple images by simply copy-pasting, dragging and dropping, or using the image picker. It’s quick, seamless, and flexible.]]></description>
+            <content:encoded><![CDATA[<p>I’m thrilled to announce that adding images to your notes just got a whole lot easier! You can now effortlessly embed multiple images by simply copy-pasting, dragging and dropping, or using the image picker. It’s quick, seamless, and flexible.</p>
+<p>The best part? The quality of your images is preserved, so your visuals stay sharp. You can also resize images to fit your content perfectly, giving you more control over how your notes look.</p>
+<p>Want to get creative? You can nest images within other content, letting you express your ideas in a way that’s clear and visually engaging.</p>
+<p>Give it a try and let your notes come to life with images!</p>]]></content:encoded>
+            <category>feature</category>
+        </item>
+        <item>
+            <title><![CDATA[Introducing powerful tables: Reorder, merge, and color!]]></title>
+            <link>https://doc.conniepad.com/blog/table-drag-and-drop</link>
+            <guid>https://doc.conniepad.com/blog/table-drag-and-drop</guid>
+            <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[I’m excited to announce a big upgrade to tables in the app! With this new feature, organizing your data is now easier (and more fun) than ever. You can simply drag and drop columns and rows to reorder them however you like—perfect for keeping your info in exactly the right place.]]></description>
+            <content:encoded><![CDATA[<p>I’m excited to announce a big upgrade to tables in the app! With this new feature, organizing your data is now easier (and more fun) than ever. You can simply drag and drop columns and rows to reorder them however you like—perfect for keeping your info in exactly the right place.</p>
+<p>Adding new rows and columns is just as simple. Whether you're expanding your list or reworking a layout, you can quickly insert what you need with a click. And for those moments when you need more flexibility, you can merge cells to create custom layouts that work for your content.</p>
+<p>But that’s not all—you can also style individual cells with custom background colors! This makes it easy to visually highlight important sections or organize your data in a way that stands out.</p>
+<p>Try it out and make your tables work exactly the way you want. I can’t wait to hear what you think!</p>]]></content:encoded>
+            <category>feature</category>
+        </item>
+        <item>
+            <title><![CDATA[Text Highlighting!]]></title>
+            <link>https://doc.conniepad.com/blog/support-text-highlighting</link>
+            <guid>https://doc.conniepad.com/blog/support-text-highlighting</guid>
+            <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[We’ve just added a feature that I think you’re going to love—text highlighting! Now, you can bring even more personality and organization to your notes by adding a splash of color to important sections.]]></description>
+            <content:encoded><![CDATA[<p>We’ve just added a feature that I think you’re going to love—text highlighting! Now, you can bring even more personality and organization to your notes by adding a splash of color to important sections.</p>
+<p>Whether you’re jotting down key ideas, to-do lists, or important reminders, highlighting makes it easier to focus on what really matters. Simply select your text, choose your favorite highlight color, and voilà—your notes are instantly more readable and organized.</p>
+<p>This feature fits right in with our mission to make note-taking effortless and enjoyable. So go ahead, give it a try and brighten up your notes! As always, I’d love to hear what you think—your feedback helps make the app even better.</p>
+<p>Happy highlighting!</p>]]></content:encoded>
+            <category>feature</category>
+        </item>
         <item>
             <title><![CDATA[Why do I made note app]]></title>
             <link>https://doc.conniepad.com/blog/welcome</link>
