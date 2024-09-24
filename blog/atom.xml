@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://doc.conniepad.com/blog</id>
     <title>ConniePad Blog</title>
-    <updated>2024-09-11T00:00:00.000Z</updated>
+    <updated>2024-09-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://doc.conniepad.com/blog"/>
     <subtitle>ConniePad Blog</subtitle>
     <icon>https://doc.conniepad.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ Supports bulk import and export to Markdown!]]></title>
+        <id>https://doc.conniepad.com/blog/bulk-import-export</id>
+        <link href="https://doc.conniepad.com/blog/bulk-import-export"/>
+        <updated>2024-09-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m excited to share a new feature in ConniePad that many of you have been waiting for—bulk import and export to markdown! 🎉]]></summary>
+        <content type="html"><![CDATA[<p>I’m excited to share a new feature in ConniePad that many of you have been waiting for—bulk import and export to markdown! 🎉</p>
+<p>Now, whether you're moving a large batch of notes into ConniePad or exporting them for safekeeping or moving to another app, it’s all super easy. 😊</p>
+<p>This update make sure your never locked in ConniePad. Give it a try and let me know what you think!</p>
+<ul>
+<li><a href="https://doc.conniepad.com/docs/advance/bulk-import-markdown">Bulk import markdown</a></li>
+<li><a href="https://doc.conniepad.com/docs/advance/bulk-export-markdown">Bulk export markdown</a></li>
+</ul>
+<p>Happy note-taking! ✍️</p>]]></content>
+        <author>
+            <name>Huy</name>
+            <uri>https://x.com/areshuyle</uri>
+        </author>
+        <category label="feature" term="feature"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New feature: Automatic note history for extra peace of mind!]]></title>
         <id>https://doc.conniepad.com/blog/auto-backup</id>

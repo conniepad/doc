@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ConniePad Blog</title>
+        <link>https://doc.conniepad.com/article</link>
+        <description>ConniePad Blog</description>
+        <lastBuildDate>Wed, 11 Sep 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[New feature: Automatic note history for extra peace of mind!]]></title>
+            <link>https://doc.conniepad.com/article/auto-backup</link>
+            <guid>https://doc.conniepad.com/article/auto-backup</guid>
+            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[I’m excited to introduce a feature that adds an extra layer of protection to your notes — automatic save history! Now, your notes will be captured a snapshot every 5 minutes, so if you accidentally make changes or need to go back to a previous version, you’re covered.]]></description>
+            <content:encoded><![CDATA[<p>I’m excited to introduce a feature that adds an extra layer of protection to your notes — automatic save history! Now, your notes will be captured a snapshot every 5 minutes, so if you accidentally make changes or need to go back to a previous version, you’re covered.</p>
+<p>This feature gives you the peace of mind that your notes are always safe. And as a bonus, it acts as a backup in case iCloud ever fails, ensuring you never lose important information.</p>
+<p>Your notes are in good hands—safe, secure, and always recoverable!</p>]]></content:encoded>
+            <category>feature</category>
+        </item>
+    </channel>
+</rss>

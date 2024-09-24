@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://doc.conniepad.com/article</id>
+    <title>ConniePad Blog</title>
+    <updated>2024-09-11T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://doc.conniepad.com/article"/>
+    <subtitle>ConniePad Blog</subtitle>
+    <icon>https://doc.conniepad.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[New feature: Automatic note history for extra peace of mind!]]></title>
+        <id>https://doc.conniepad.com/article/auto-backup</id>
+        <link href="https://doc.conniepad.com/article/auto-backup"/>
+        <updated>2024-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m excited to introduce a feature that adds an extra layer of protection to your notes — automatic save history! Now, your notes will be captured a snapshot every 5 minutes, so if you accidentally make changes or need to go back to a previous version, you’re covered.]]></summary>
+        <content type="html"><![CDATA[<p>I’m excited to introduce a feature that adds an extra layer of protection to your notes — automatic save history! Now, your notes will be captured a snapshot every 5 minutes, so if you accidentally make changes or need to go back to a previous version, you’re covered.</p>
+<p>This feature gives you the peace of mind that your notes are always safe. And as a bonus, it acts as a backup in case iCloud ever fails, ensuring you never lose important information.</p>
+<p>Your notes are in good hands—safe, secure, and always recoverable!</p>]]></content>
+        <author>
+            <name>Huy</name>
+            <uri>https://x.com/areshuyle</uri>
+        </author>
+        <category label="feature" term="feature"/>
+    </entry>
+</feed>

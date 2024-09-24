@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconnie_doc=self.webpackChunkconnie_doc||[]).push([[1626],{3825:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"New feature: Automatic note history for extra peace of mind!","permalink":"/article/auto-backup","unlisted":false}]}')}}]);
