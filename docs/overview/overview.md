@@ -16,5 +16,6 @@ ConniePad is a note taking app, that's modern, high-performance and easy to use 
 - Offline mode -- Work anywhere, anytime
 - Easy to use -- Toolbar, Quick access menu and keyboard shortcuts
 - Powerful note editor -- Support many rich text editing that other note taking & markdown text editor can't.
+- Safe - Automatically back up your note history to your disk 
 - Privacy -- Never access your note
 - Compatible with Jira, Confluence, Trello formatting -- Best tool for enterprise

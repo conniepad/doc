@@ -10,4 +10,4 @@ If you purchase and download the app from the Mac App Store, then you can use th
 
 ## Company license
 
-Please contact my email [huy@conniepad.com](mailto:huy@conniepad.com) if you would like to purchase bulk license for the app or would like to get the standalone version of the app outside of the Mac App Store.
+Please contact my email [contact@conniepad.com](mailto:contact@conniepad.com) if you would like to purchase bulk license for the app or would like to get the standalone version of the app outside of the Mac App Store.
