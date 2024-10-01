@@ -50,6 +50,18 @@ const config: Config = {
     ],
   ],
 
+  scripts: [
+    {
+      src: 'src/analytics.js',
+      async: true,
+    },
+  ],
+  
+  // Add this to integrate with Docusaurus routing
+  clientModules: [
+    require.resolve('./src/analytics.js'),
+  ],
+
   presets: [
     [
       "classic",
